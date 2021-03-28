@@ -10,10 +10,13 @@ img {
   list-style: none;
 }
 
-.container {
-  width: 1200px;
-  padding: 0 15px;
-  margin: 0 auto;
+.country-container {
+  margin-top: 10px;
+  border: 2px solid green;
+}
+
+.btn {
+  margin-top: 20px;
 }
 
 .card-container {
